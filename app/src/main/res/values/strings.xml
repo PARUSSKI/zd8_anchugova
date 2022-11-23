@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">zd8</string>
+    <string name="ChangeTask">Изменить задачу</string>
+    <string name="title">Заголовок задачи</string>
+    <string name="date">  Дата</string>
+    <string name="time">  Время</string>
+    <string name="decr">Описание задачи</string>
+    <string name="del_task">Удалить задачу</string>
+    <string name="add_task">Записать задачу</string>
+    <string name="task_list">Список дел</string>
+    <string name="add_task2">Добавить задачу</string>
+    <string name="reg">Регистрация</string>
+    <string name="name">Имя пользователя</string>
+    <string name="email">Адрес электронной почты</string>
+    <string name="pass">Пароль</string>
+</resources>
